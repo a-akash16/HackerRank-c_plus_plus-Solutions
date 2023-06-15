@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int width,height;
+    cin>>width>>height;
+    int area=width*height;
+    cout<<width<<" "<<height<<endl;
+    cout<<area;   
+    return 0;
+}
