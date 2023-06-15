@@ -1,1 +1,1 @@
-# HackerRank C++ Solutions
+delete README.md
