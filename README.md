@@ -1,1 +1,1 @@
-# HackerRank-C++-Solutions
+# HackerRank C++ Solutions
